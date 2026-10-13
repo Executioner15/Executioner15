@@ -32,6 +32,14 @@ Welcome to my personal portfolio on GitHub!
 - [x] Learn advanced CSS
 - [ ] Build my first Website
 
+## 📂 My Projects
+
+| Project Name | Description | Status |
+|---|---|---|
+| My Portfolio | Personal website using HTML and CSS | Completed ✅ |
+| Login Page | A simple login form | In Progress 🔄 |
+| Calculator | A calculator using JavaScript | To Do ⏳ |
+
 ## Find Me
 [Visit my GitHub profile](https://github.com/)
 
